@@ -1,0 +1,15 @@
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.AssemblyInfoInputs.cache
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.AssemblyInfo.cs
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.csproj.CoreCompileInputs.cache
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.sourcelink.json
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.exe
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.deps.json
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.runtimeconfig.json
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.dll
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.pdb
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.dll
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\refint\CreditCardValidator.dll
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.pdb
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.genruntimeconfig.cache
+C:\Users\diego.brunari\OneDrive - Foco PDV Soluções Integradas Ltda\Documentos\aa\card-validator\src\CreditCardValidator\obj\Debug\net10.0\ref\CreditCardValidator.dll
